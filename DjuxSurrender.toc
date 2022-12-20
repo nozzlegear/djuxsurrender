@@ -1,5 +1,5 @@
 ## Interface: 100002
-## Title: |cff99ff33djux|rSurrender
+## Title: DjuxSurrender
 ## Notes: Disables /afk in arena and makes it surrender
 ## Version: 1.0.0
 ## Author: Djux
