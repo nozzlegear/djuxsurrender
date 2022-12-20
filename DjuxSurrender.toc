@@ -1,0 +1,9 @@
+## Interface: 100002
+## Title: |cff99ff33djux|rSurrender
+## Notes: Disables /afk in arena and makes it surrender
+## Version: 1.0.0
+## Author: Djux
+## eMail: joshua@nozzlegear.com
+## DefaultState: enabled
+
+Core.lua
