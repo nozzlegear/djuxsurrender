@@ -1,7 +1,7 @@
 ## Interface: 100002
 ## Title: DjuxSurrender
 ## Notes: Disables /afk in arena and makes it surrender
-## Version: 1.0.0
+## Version: @project-version@
 ## Author: Djux
 ## eMail: joshua@nozzlegear.com
 ## DefaultState: enabled
